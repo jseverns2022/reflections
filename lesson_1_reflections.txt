@@ -36,4 +36,3 @@ Now that you have your workspace set up, what do you want to try using Git for?
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 If you like on of your previous version you can always go back and use that version, also it is a lot easier to fix mistakes
-    
